@@ -26,11 +26,6 @@ Below is a link of a video taken while on a training exercise in Thailand with a
 [Link](https://www.dvidshub.net/video/78711/pfc-lecesne) and ![Image](https://d2q133a8ap145g.cloudfront.net/wp-content/uploads/2010/07/191623.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrantzL-Cyber/FL_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
