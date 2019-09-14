@@ -1,6 +1,6 @@
 ## My Portfolio
 
-My name is Frantz Lecesne and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. Some fun things I have been involved with include being the technical editor of the Ninja Gaiden, Prima Strategy guide, and have also been on a episode of Hawaii Five-0. 
+My name is _Frantz Lecesne_ and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. Some fun things I have been involved with include being the technical editor of the Ninja Gaiden, Prima Strategy guide, and have also been on a episode of Hawaii Five-0. 
 
 ### College
 
@@ -19,7 +19,7 @@ Many things could happen over the course of the class that could make things mor
 
 ### The Best
 
-My wife is by far the most important aspect of my life. I would not have been able to make it this far without her and she will take precedence to almost anything else. It is also her understanding while I make this transition in our lives that continue to show me why she is so important to me.
+My **wife** is by far the most important aspect of my life. I would not have been able to make it this far without her and she will take precedence to almost anything else. It is also her understanding while I make this transition in our lives that continue to show me why she is so important to me.
 
 Below is a link of a video taken while on a training exercise in Thailand with an image from Fort Shafter where I was based out of.
 
