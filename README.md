@@ -7,19 +7,21 @@ My name is Frantz Lecesne and located here will be some of my projects and class
 I currently have a bachelor's degree in history, and wanted to transition into IT. This is my first semester in the field, and am hoping to have my A+ and Net+ certifications by the end of the year. Since I have finished all my general ed it should only take me three semesters to accomplish my AS in Cybersecurity.
 
 ```markdown
-Why Python
+### Why Python
 
 I am currently working on a MySQL database Key conversion utilizing TDES Encryption, but need a much better foundation with the language to accomplish it.
-## Header 2
-### Header 3
+Python is also a very versatile language and I hope that what I learn can assist me in future projects. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Strugles
 
-Below is a link of a video taken while on a training exercise in Thailand with the image comming from Fort Shafter that I was based out of.
+Many things could happen over the course of the class that could make things more difficult. As the structure has been presented so far, I feel it is going to mesh with the way I learn very well. But life finds a way, and outside influences are not always easy to dismiss and concentrate on what is important right in front of me.
+
+### The Best
+
+My wife is by far the most important aspect of my life. I would not have been able to make it this far without her and she will take precedence to almost anything else. It is also her understanding while I make this transition in our lives that continue to show me why she is so important to me.
+
+Below is a link of a video taken while on a training exercise in Thailand with an image from Fort Shafter where I was based out of.
 
 [Link](https://www.dvidshub.net/video/78711/pfc-lecesne) and ![Image](https://d2q133a8ap145g.cloudfront.net/wp-content/uploads/2010/07/191623.jpg)
 ```
@@ -32,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or concerns about this page I can be contacted at frantz@eclinternational.com
