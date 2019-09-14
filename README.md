@@ -1,6 +1,6 @@
 ## My Portfolio
 
-My name is Frantz Lecesne and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. 
+My name is Frantz Lecesne and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. Some fun things I have been involved with include being the technical editor of the Ninja Gaiden, Prima Strategy guide, and have also been on a episode of Hawaii Five-0. 
 
 ### College
 
@@ -19,9 +19,9 @@ I am currently working on a MySQL database Key conversion utilizing TDES Encrypt
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+Below is a link of a video taken while on a training exercise in Thailand with the image comming from Fort Shafter that I was based out of.
 
-[Link](url) and ![Image](src)
+[Link](https://www.dvidshub.net/video/78711/pfc-lecesne) and ![Image](https://d2q133a8ap145g.cloudfront.net/wp-content/uploads/2010/07/191623.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
