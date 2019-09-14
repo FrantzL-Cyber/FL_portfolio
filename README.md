@@ -13,7 +13,7 @@ I am currently working on a MySQL database Key conversion utilizing TDES Encrypt
 Python is also a very versatile language and I hope that what I learn can assist me in future projects. 
 
 
-### Strugles
+### Struggles
 
 Many things could happen over the course of the class that could make things more difficult. As the structure has been presented so far, I feel it is going to mesh with the way I learn very well. But life finds a way, and outside influences are not always easy to dismiss and concentrate on what is important right in front of me.
 
