@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+## My Portfolio
 
-You can use the [editor on GitHub](https://github.com/FrantzL-Cyber/FL_portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Frantz Lecesne and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### College
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I currently have a bachelor's degree in history, and wanted to transition into IT. This is my first semester in the field, and am hoping to have my A+ and Net+ certifications by the end of the year. Since I have finished all my general ed it should only take me three semesters to accomplish my AS in Cybersecurity.
 
 ```markdown
-Syntax highlighted code block
+Why Python
 
-# Header 1
+I am currently working on a MySQL database Key conversion utilizing TDES Encryption, but need a much better foundation with the language to accomplish it.
 ## Header 2
 ### Header 3
 
