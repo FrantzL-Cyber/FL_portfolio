@@ -12,7 +12,7 @@ I currently have a bachelor's degree in history, and wanted to transition into I
 I am currently working on a MySQL database Key conversion utilizing TDES Encryption, but need a much better foundation with the language to accomplish it.
 Python is also a very versatile language and I hope that what I learn can assist me in future projects. 
 
-
+```
 ### Struggles
 
 Many things could happen over the course of the class that could make things more difficult. As the structure has been presented so far, I feel it is going to mesh with the way I learn very well. But life finds a way, and outside influences are not always easy to dismiss and concentrate on what is important right in front of me.
@@ -27,7 +27,6 @@ Below is a link of a video taken while on a training exercise in Thailand with a
 
 ### Unit 1
 [Link](https://frantzl-cyber.github.io/Unit-1/) - Some of the projects I was able to accomplish during the first half of a course at Sierra College, Fall 2019.
-```
 
 ### Support or Contact
 
