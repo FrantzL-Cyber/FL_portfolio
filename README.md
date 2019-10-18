@@ -1,6 +1,6 @@
 ## My Portfolio
 
-My name is _Frantz Lecesne_ and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. Some fun things I have been involved with include being the technical editor of the Ninja Gaiden, Prima Strategy guide, and have also been on a episode of Hawaii Five-0. 
+My name is _Frantz Lecesne_ and located here will be some of my projects and classwork as I inch my way into the IT field. I was born in France, and am sitll fluent, but have also lived in the Bay Area, Sacramento Area, and in Plano, Texas. I have always enjoyed messing around with computers and playing video games. Some fun things I have been involved with include being the technical editor of the Ninja Gaiden, Prima Strategy guide, and have also been on a episode of Hawaii Five-0. As of September 2019, I am a certified CTGA TR39 Pin Security and Key Management auditor.
 
 ### College
 
