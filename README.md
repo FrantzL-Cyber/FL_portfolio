@@ -24,9 +24,10 @@ My **wife** is by far the most important aspect of my life. I would not have bee
 Below is a link of a video taken while on a training exercise in Thailand with an image from Fort Shafter where I was based out of.
 
 [Link](https://www.dvidshub.net/video/78711/pfc-lecesne) and ![Image](https://d2q133a8ap145g.cloudfront.net/wp-content/uploads/2010/07/191623.jpg)
-```
+
 ### Unit 1
 [Link](https://frantzl-cyber.github.io/Unit-1/) - Some of the projects I was able to accomplish during the first half of a course at Sierra College, Fall 2019.
+```
 
 ### Support or Contact
 
