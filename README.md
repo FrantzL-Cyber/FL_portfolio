@@ -28,6 +28,9 @@ Below is a link of a video taken while on a training exercise in Thailand with a
 ### Unit 1
 [Link](https://frantzl-cyber.github.io/Unit-1/) - Some of the projects I was able to accomplish during the first half of a course at Sierra College, Fall 2019.
 
+### Unit 2
+[Link](https://frantzl-cyber.github.io/Unit-2/) - Information on my IoT project, a package sensor.
+
 ### Support or Contact
 
 If you have any questions or concerns about this page I can be contacted at frantz@eclinternational.com
